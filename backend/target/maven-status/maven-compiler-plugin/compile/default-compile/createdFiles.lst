@@ -1,0 +1,15 @@
+com\onlineexam\Application.class
+com\onlineexam\config\DataLoader.class
+com\onlineexam\model\ExamResult.class
+com\onlineexam\repository\ExamRepository.class
+com\onlineexam\model\Exam.class
+com\onlineexam\controller\AnswerDetail.class
+com\onlineexam\controller\AuthResponse.class
+com\onlineexam\controller\ExamResultResponse.class
+com\onlineexam\model\Question.class
+com\onlineexam\controller\LoginRequest.class
+com\onlineexam\controller\AuthController.class
+com\onlineexam\repository\ExamResultRepository.class
+com\onlineexam\controller\ExamController.class
+com\onlineexam\controller\SubmitExamRequest.class
+com\onlineexam\repository\QuestionRepository.class
