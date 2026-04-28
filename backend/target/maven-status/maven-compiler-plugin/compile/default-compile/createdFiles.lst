@@ -12,4 +12,3 @@ com\onlineexam\controller\AuthController.class
 com\onlineexam\repository\ExamResultRepository.class
 com\onlineexam\controller\ExamController.class
 com\onlineexam\controller\SubmitExamRequest.class
-com\onlineexam\repository\QuestionRepository.class
